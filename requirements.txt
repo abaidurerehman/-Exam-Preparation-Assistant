@@ -1,0 +1,16 @@
+gradio
+google-genai
+python-dotenv
+langchain>=1.0.0
+langchain-text-splitters
+langchain-core
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-pptx
+yt-dlp
+numpy
+scipy
+pydantic
+websockets
+requests
